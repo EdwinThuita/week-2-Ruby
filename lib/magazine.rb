@@ -1,6 +1,7 @@
+require_relative '../lib/article'
 class Magazine 
 
-    require_relative '../lib/article'
+   
 
 
     attr_accessor :name,:category

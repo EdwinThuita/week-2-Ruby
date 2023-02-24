@@ -1,6 +1,6 @@
 require_relative '../lib/article'
     require_relative '../lib/magazine'
-
+class Author
 
     attr_reader :name
 
